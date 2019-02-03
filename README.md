@@ -3,7 +3,7 @@
 In this folder, I keep copies of various R code files that I am using for my analyses. They are commented, but please contact me if you have any questions (dieter.lukas@gmail.com).
 
 
-*** List of projects ***
+***List of projects***
 
 1. Cleaning pedigree datasets: code to check pedigree input files (files that list the parents of individuals) for potential errors (https://github.com/dieterlukas/Rcode/blob/master/Files/CleaningPedigreeDatasets.r)
 
